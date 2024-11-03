@@ -1,0 +1,13 @@
+{
+	"source": "./src",
+	"target": "./docs",
+	"port": 4000,
+	"repository": "https://github.com/username/repo-name",
+	"branch": "main",
+	"pagesBranch": "gh-pages",
+	"strategies": [
+		{
+			"visit": "decorator"
+		}
+	]
+}
