@@ -82,7 +82,7 @@ I am working on the deployment to github pages with the command `ook deploy`.
 ### General
 
 - [ ] Finish deploy command
-- [ ] Explore sequences and classes diagrams
+- [ ] Explore glossary, sequences and classes diagrams
 - [ ] Explore jest | mocha wrapper in order to generate documentation with logs
 
 ### Guided tours
