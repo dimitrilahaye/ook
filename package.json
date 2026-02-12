@@ -24,6 +24,6 @@
 	"dependencies": {
 		"fs-extra": "^11.3.0",
 		"reflect-metadata": "^0.2.2",
-		"ts-morph": "^25.0.0"
+		"ts-morph": "^25.0.1"
 	}
 }
